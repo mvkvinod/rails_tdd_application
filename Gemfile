@@ -60,3 +60,18 @@ gem 'jquery-rails'
 gem 'devise'
 
 gem 'bootstrap_form'
+
+# gems for testing (TDD)
+gem 'rspec-rails', '~> 3.6'
+
+gem 'factory_girl_rails'
+
+gem 'rails-controller-testing'
+
+gem 'headless'
+
+# gem 'capybara'
+
+gem 'poltergeist'
+
+gem 'database_cleaner'
